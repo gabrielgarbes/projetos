@@ -1,4 +1,4 @@
 # excluindo todos os itens da pasta mysql
 mysql/*
 ##exceção da pasta do banco
-# !mysql/loja_db
+!mysql/loja_db
